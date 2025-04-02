@@ -1,2 +1,2 @@
 
-this is a hotfix but on the master branch
+this is a hotfix but on the master branch and hotfix
