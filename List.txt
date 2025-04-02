@@ -4,4 +4,3 @@ Bread x 2
 Salami X 3
 Cookies x 2
 Toothpaste x 1 
-
